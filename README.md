@@ -1,7 +1,7 @@
 # SmartCampus Scheduling Project  
 ### Assignment 4 
 
-
+------
 Project Structure:
 src/
 ├── main/java/
@@ -19,6 +19,7 @@ src/
 └── resources/
 data/
 
+------
 for run
 mvn clean compile
 mvn test
